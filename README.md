@@ -33,10 +33,9 @@ To design an interactive Power BI dashboard that analyzes company sales, profit,
 - Seasonal trend shows higher sales peaks in **Q4**, suggesting festive or end-of-year demand spikes.  
 - Customer base shows healthy expansion aligned with revenue growth, reflecting retention success.  
 
-  
 
 ## Repository Contents
--Readme.md : Project documentation (this file).
--Sales Transactions Dataset.xlsx : dataset used.
--Sales transaction.pbix : download and explore the interactive Power BI dashboard here.
--C S P_Dashboard_T3.pptx : Dashboard summary.
+- README.md - Project documentation (this file)
+- Sales Transactions Dataset.xlsx : dataset used
+- Sales transaction.pbix : download and explore the interactive Power BI dashboard here
+- C S P_Dashboard_T3.pptx : Dashboard summary
