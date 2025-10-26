@@ -36,7 +36,7 @@ To design an interactive Power BI dashboard that analyzes company sales, profit,
   
 
 ## Repository Contents
--Readme.md : Project documentation (this file)
--Sales Transactions Dataset.xlsx : dataset used
--Sales transaction.pbix : download and explore the interactive Power BI dashboard here
--C S P_Dashboard_T3.pptx : Dashboard summary
+-Readme.md : Project documentation (this file).
+-Sales Transactions Dataset.xlsx : dataset used.
+-Sales transaction.pbix : download and explore the interactive Power BI dashboard here.
+-C S P_Dashboard_T3.pptx : Dashboard summary.
